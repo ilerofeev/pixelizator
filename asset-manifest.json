@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pixelizator/static/css/main.307695d7.chunk.css",
+    "main.js": "/pixelizator/static/js/main.4b5558bc.chunk.js",
+    "main.js.map": "/pixelizator/static/js/main.4b5558bc.chunk.js.map",
+    "runtime-main.js": "/pixelizator/static/js/runtime-main.56ade06d.js",
+    "runtime-main.js.map": "/pixelizator/static/js/runtime-main.56ade06d.js.map",
+    "static/js/2.8e7b8e3d.chunk.js": "/pixelizator/static/js/2.8e7b8e3d.chunk.js",
+    "static/js/2.8e7b8e3d.chunk.js.map": "/pixelizator/static/js/2.8e7b8e3d.chunk.js.map",
+    "static/js/3.5656a4b5.chunk.js": "/pixelizator/static/js/3.5656a4b5.chunk.js",
+    "static/js/3.5656a4b5.chunk.js.map": "/pixelizator/static/js/3.5656a4b5.chunk.js.map",
+    "index.html": "/pixelizator/index.html",
+    "static/css/main.307695d7.chunk.css.map": "/pixelizator/static/css/main.307695d7.chunk.css.map",
+    "static/js/2.8e7b8e3d.chunk.js.LICENSE.txt": "/pixelizator/static/js/2.8e7b8e3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56ade06d.js",
+    "static/js/2.8e7b8e3d.chunk.js",
+    "static/css/main.307695d7.chunk.css",
+    "static/js/main.4b5558bc.chunk.js"
+  ]
+}
